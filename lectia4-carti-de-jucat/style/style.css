@@ -1,0 +1,29 @@
+.cards {
+    height: 1000px;
+    background-image: url("../img/PNG-cards/queen_of_spades2.png"), url("../img/PNG-cards/queen_of_hearts2.png"), url("../img/PNG-cards/queen_of_diamonds2.png"),
+    url("../img/PNG-cards/queen_of_clubs2.png"), url("../img/PNG-cards/king_of_clubs2.png"), url("../img/PNG-cards/king_of_spades.png"),
+    url("../img/PNG-cards/king_of_diamonds.png"), url("../img/PNG-cards/king_of_hearts.png"), url("../img/PNG-cards/king_of_clubs.png"),
+    url("../img/PNG-cards/2_of_clubs.png"), url("../img/PNG-cards/2_of_hearts.png"), url("../img/PNG-cards/2_of_clubs.png"), url("../img/PNG-cards/2_of_spades.png"),
+    url("../img/PNG-cards/2_of_diamonds.png"), url("../img/PNG-cards/3_of_clubs.png"), url("../img/PNG-cards/3_of_hearts.png"), url("../img/PNG-cards/3_of_spades.png"), url("../img/PNG-cards/3_of_diamonds.png"),
+    url("../img/PNG-cards/4_of_spades.png"), url("../img/PNG-cards/4_of_clubs.png"), url("../img/PNG-cards/4_of_hearts.png"), url("../img/PNG-cards/4_of_diamonds.png"),
+    url("../img/PNG-cards/5_of_spades.png"), url("../img/PNG-cards/5_of_clubs.png"), url("../img/PNG-cards/5_of_hearts.png"), url("../img/PNG-cards/5_of_diamonds.png"),
+    url("../img/PNG-cards/6_of_spades.png"), url("../img/PNG-cards/6_of_clubs.png"), url("../img/PNG-cards/6_of_hearts.png"), url("../img/PNG-cards/6_of_diamonds.png"), 
+    url("../img/PNG-cards/7_of_spades.png"), url("../img/PNG-cards/7_of_clubs.png"), url("../img/PNG-cards/7_of_hearts.png"), url("../img/PNG-cards/7_of_diamonds.png"),
+    url("../img/PNG-cards/8_of_clubs.png"),url("../img/PNG-cards/8_of_spades.png"),url("../img/PNG-cards/8_of_hearts.png"),url("../img/PNG-cards/8_of_diamonds.png"),
+    url("../img/PNG-cards/9_of_clubs.png"),url("../img/PNG-cards/9_of_diamonds.png"),url("../img/PNG-cards/9_of_hearts.png"),url("../img/PNG-cards/9_of_diamonds.png"),
+    url("../img/PNG-cards/10_of_clubs.png"),url("../img/PNG-cards/10_of_diamonds.png"),url("../img/PNG-cards/10_of_hearts.png"),url("../img/PNG-cards/10_of_spades.png"),
+    url("../img/PNG-cards/jack_of_clubs.png"),url("../img/PNG-cards/jack_of_clubs.png"),url("../img/PNG-cards/jack_of_hearts.png"),url("../img/PNG-cards/jack_of_diamonds.png"),
+    url("../img/PNG-cards/queen_of_clubs.png"),url("../img/PNG-cards/queen_of_diamonds.png"),url("../img/PNG-cards/queen_of_hearts.png"),url("../img/PNG-cards/queen_of_diamonds.png"),
+    url("../img/PNG-cards/king_of_clubs2.png"),url("../img/PNG-cards/king_of_diamonds2.png"),url("../img/PNG-cards/king_of_hearts2.png"),url("../img/PNG-cards/king_of_diamonds2.png"),
+    url("../img/PNG-cards/ace_of_clubs.png"),url("../img/PNG-cards/ace_of_spades.png"),url("../img/PNG-cards/ace_of_hearts.png"),url("../img/PNG-cards/ace_of_diamonds.png");
+    background-repeat: no-repeat; 
+    background-size: 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px, 100px;
+    background-position: 10px 10px, 30px 30px, 50px 50px, 70px 70px, 90px 90px, 110px 110px, 130px 130px, 150px 150px, 170px 170px, 190px 190px, 210px 210px,
+    230px 190px, 250px 170px, 270px 150px, 290px 130px, 310px 110px, 330px 90px, 350px 70px, 370px 50px, 390px 30px, 410px 10px, 430px 30px, 450px 50px,
+    470px 70px, 490px 90px, 510px 110px,530px 130px, 550px 150px, 570px 170px, 590px 190px, 610px 210px, 630px 190px, 650px 170px,670px 150px, 690px 130px, 
+    710px 110px, 730px 90px, 750px 70px, 770px 50px, 790px 30px, 810px 10px, 830px 30px, 850px 50px,870px 70px, 890px 90px, 910px 110px,930px 130px, 
+    950px 150px, 970px 170px, 990px 190px, 1010px 210px, 1030px 190px, 1050px 170px, 1070px 150px, 1090px 130px, 1110px 110px, 1130px 90px, 1150px 70px, 
+    1170px 50px, 1190px 30px, 1210px 10px, 1230px 30px   ;
+
+}
+

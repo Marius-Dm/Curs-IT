@@ -1,0 +1,87 @@
+body{
+    background-color: bisque;
+}
+
+.meeting-image > img{
+    width: 1000px;
+    height: 500px;
+    margin-left:250px ;
+}
+
+.about-us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-us > h3{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about-us-containers{
+    display: flex;
+    justify-content: space-around;
+}
+
+.business-strategy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.business-strategy:hover{
+    color: white;
+    background-image: linear-gradient(to right, red, violet );
+}
+
+.business-strategy>p{
+    width: 200px;
+}
+
+.website-development{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.website-development:hover{
+    color: white;
+    background-image: linear-gradient(to right, red, violet );
+}
+
+.website-development>p{
+    width: 200px;
+}
+
+.website-development:hover{
+    color: white;
+    background-color: linear-gradient(to right, red, violet );
+}
+
+.marketing-reporting{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.marketing-reporting:hover{
+    color: white;
+    background-image: linear-gradient(to right, red, violet );
+}
+
+.marketing-reporting>p{
+    width: 200px;
+}

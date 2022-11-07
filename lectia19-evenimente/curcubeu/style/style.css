@@ -1,0 +1,17 @@
+.adauga{
+    width: 100px;
+    height: 30px;
+    background-color: fuchsia;
+    color: #fff;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,12 @@
+h1 {
+    text-align: right;
+    background-color: chocolate;
+    color: crimson;
+    font-family: Consolas;
+    font-size: 70px;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+}

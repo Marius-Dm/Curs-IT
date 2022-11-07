@@ -1,0 +1,102 @@
+
+body{
+    background-image: url("../img/inside-restaurant.jpg");
+    background-size: 1600px;
+
+}
+
+.nav-links{
+    border: 3px solid violet;
+}
+
+h1,h2{
+    text-align: center;
+    font-family: Calibri;
+    text-transform: uppercase;
+    text-shadow: 1px 5px #888888;
+
+}
+
+h1{
+    font-size: 35px;
+}
+
+
+.partners ol li{
+    display: inline-block;
+    padding: 5px;
+    text-align: justify;
+    width: 200px;
+    
+
+}
+
+.partners ol li a{
+    font-family: "Century Gothic"  ;
+    text-decoration: none;
+}
+
+.partners ol li a:link{
+    color:white;
+
+}
+
+.partners ol li img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.description{
+    padding-left: 70px;
+    color:white;
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.second-description{
+    text-align: center;
+    font-family: "Calibri";
+
+}
+
+.second-description img{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.first-description{
+    text-align: center;
+    padding-left: 70px;
+    margin-right: 70px;
+    font-family: Calibri;
+}
+.first-description p{
+    font-size: 18px;
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 15px;
+    color: white;
+
+
+}
+
+.first-description img{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+
+

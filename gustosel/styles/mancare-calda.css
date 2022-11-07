@@ -1,0 +1,35 @@
+
+body{
+    filter:brightness(100%);
+    background-image: url("../img/food.jpg");
+    filter: brightness(100%);
+    background-size: 1600px;
+
+}
+
+.descriere-mancare p{
+    text-align: center;(../img/site-999md.jpg)
+    padding-left: 70px;
+    padding-right: 70px;
+    font-family: Calibri;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: rgba(0,0,0,0.9);
+    border-radius: 20px;
+    padding-left: 30px;
+}
+
+.food-list ul li{
+    font-size: 30px;
+    font-family: "Century Gothic" ;
+    color: white;
+}
+
+table{
+    margin-left: 25%;
+    border: 2px solid;
+    border-spacing: 3px;
+    color: white;
+    background-color: rgba(0,0,0,0.6);
+}

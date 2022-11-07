@@ -1,0 +1,83 @@
+.patrat {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #545454;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.patrat2 {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #cb7f27;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+
+}
+table{
+ border-spacing: 0;
+    border: 2;
+}
+
+.border-up-side{
+    background-color: #cb7f27;
+    height: 25px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    text-align: center;
+
+    -moz-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -ms-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}
+
+.border-down-side{
+    background-color: #cb7f27;
+    height: 25px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    text-align: center;
+}
+.border-left-side{
+    background-color: #cb7f27;
+    height: 80px;
+    width: 50px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+.border-right-side{
+    background-color: #cb7f27;
+    height: 80px;
+    width: 30px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+
+    -moz-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -ms-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}
+
+.chess-board td{
+    border: 2px solid;
+    width: 10px;
+    height: 10px;
+}
+

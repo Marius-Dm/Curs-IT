@@ -1,0 +1,49 @@
+*{
+}
+/* * - Adaugat temporar*/
+
+.logo{
+    float: left;
+    display: inline-block;
+}
+
+.nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.nav-links{
+    flex: 1;
+    text-align: right;
+    align-items: center;
+}
+
+.nav-links ul{
+    padding-top: 15px;
+    background-color: rgba(38, 33, 30, 0.62); ;
+}
+
+.nav-links ul li{
+    display: inline-block;
+    padding: 9px;
+}
+
+.nav-links ul li a{
+    padding: 3px 15px;
+    font-family: 'Alkalami', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Peralta', cursive;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

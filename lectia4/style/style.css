@@ -1,0 +1,75 @@
+/*
+Tag
+*/
+
+p {
+    color: red;
+    /*font-family: 'Oswald', sans-serif;*/
+    font-style: italic;
+    font-weight: 700 ;
+    font-size: larger;
+    font-variant: petite-caps;
+}
+
+h1 {
+    color: green;
+}
+
+.verde {
+    color: #5dbe5b
+}
+
+#unic {
+    color: orange;
+}
+
+
+#albastru {
+    color: blue;
+}
+
+#violet {
+    color: violet;
+}
+
+.font35 {
+    font-size: 35px;
+}
+
+.rosu {
+    color: red;
+}
+
+.oranj {
+    color: orange;
+}
+
+.font35 li {
+    font-family: "Century Gothic";
+}
+
+.patrat {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #000000;
+}
+
+.patrat2 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #e3c54d;
+
+}
+
+.unu{
+    margin-top: 300px;
+    height: 600px;
+    background-image:url("../img/meme-html-css.jpg"),url("../img/this-is-javascript.jpeg"),url("../img/meme-html-css.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 200px 150px, 250px 200px, 200px 150px;
+    background-position: 120px 100px, 200px 150px, 350px 100px;
+
+}
+
